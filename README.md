@@ -24,5 +24,5 @@ Future Improvements:
 
 To run
 1. Download the dictionary file from the github project listed above. Set the name and path in line 27 of the program.
-2. Set the letters of the daily puzzle in the "letters" array (line 27 of the program).
+2. Set the letters of the daily puzzle in the "letters" array (line 28 of the program).
 3. Set the letter that must be included in all the words as per the puzzle (line 36 of the program).
