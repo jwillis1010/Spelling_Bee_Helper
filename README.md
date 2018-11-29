@@ -18,7 +18,7 @@ The dictionary used came from them --> https://github.com/dwyl/english-words
 Thanks to the Oxford dictionaries for making an API available for free/public use.
 
 Future Improvements:
-1. Use Dictionary.com API to verify the answers.
+1. Use Dictionary.com API to verify the answers - Done. 11/29/18
 2. Optimize.
 3. Use more dictionary files.
 
